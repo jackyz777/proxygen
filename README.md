@@ -19,7 +19,7 @@ Repo'yu Klonlayın:
 
 Kodu kopyala
 git clone https://github.com/jackyz777/proxygen
-.bat Dosyasını Çalıştırın:
+ProxyGen.bat Dosyasını Çalıştırın:
 ProxyGen.bat dosyasını çift tıklayarak çalıştırın. Bu, proxy bağlantılarınızı oluşturacaktır.
 
 Proxy'lerinizi Kullanın:
