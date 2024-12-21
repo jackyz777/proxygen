@@ -1,54 +1,54 @@
 Elite Proxy Generator 🚀🌐
 
-Hakkında 📝
-Elite Proxy Generator, tamamen ücretsiz olarak yüksek anonimlikte proxy'ler oluşturmanızı sağlayan basit ve etkili bir araçtır. Kullanıcı dostu bir .bat dosyası ile hızlı ve güvenilir proxy bağlantıları elde edebilirsiniz. Bu proje, interneti daha güvenli ve anonim bir şekilde gezmenizi sağlar. 💻🔒
+About 📝
+Elite Proxy Generator is a simple and effective tool that allows you to create high-anonymity proxies completely free of charge. With a user-friendly .bat file, you can quickly and reliably generate proxy connections. This project helps you browse the internet more securely and anonymously. 💻🔒
 
-Projenin amacı, herkesin kolayca kullanabileceği bir araç sunmak ve internet üzerindeki gizliliğinizi korumanıza yardımcı olmaktır. Elite Proxy Generator ile, proxy'lerinizi kolayca oluşturabilir ve anonim internet gezintisinin keyfini çıkarabilirsiniz! 🌍🔐
+The goal of the project is to provide an easy-to-use tool for everyone and help protect your privacy on the internet. With Elite Proxy Generator, you can easily create your proxies and enjoy anonymous internet browsing! 🌍🔐
 
-Özellikler ⚡
-Ücretsiz Kullanım: Proxy'ler tamamen ücretsiz olarak sunulmaktadır.
-Yüksek Anonimlik: Proxy bağlantıları, güvenlik ve anonimlik sağlamak için tasarlanmıştır.
-Kolay Kurulum: Basit bir .bat dosyası ile hızlıca çalıştırılabilir.
-Hızlı ve Güvenilir: Proxy bağlantılarınız hız ve güvenlik açısından optimize edilmiştir.
-Windows Uyumluluğu: Bu araç, Windows işletim sistemlerinde çalışacak şekilde tasarlanmıştır. 🖥️
+Features ⚡
 
-Kurulum 📦
-Repo'yu Klonlayın:
-Öncelikle bu repo'yu bilgisayarınıza klonlayın.
+Free Usage: Proxies are offered completely for free.
+High Anonymity: Proxy connections are designed to ensure security and anonymity.
+Easy Setup: Can be quickly run with a simple .bat file.
+Fast and Reliable: Proxy connections are optimized for speed and security.
+Windows Compatibility: This tool is designed to work on Windows operating systems. 🖥️
+Installation 📦
 
+Clone the Repo:
+First, clone this repository to your computer.
 
-Kodu kopyala
 git clone https://github.com/jackyz777/proxygen
-ProxyGen.bat Dosyasını Çalıştırın:
-ProxyGen.bat dosyasını çift tıklayarak çalıştırın. Bu, proxy bağlantılarınızı oluşturacaktır.
+Run ProxyGen.bat:
+Double-click the ProxyGen.bat file to run it. This will generate your proxy connections.
 
-Proxy'lerinizi Kullanın:
-Oluşturduğunuz proxy'leri internet tarayıcınızda veya başka bir yazılımda kullanabilirsiniz. 🌐
+Use Your Proxies:
+You can use the generated proxies in your internet browser or other software. 🌐
 
-Kullanım 💡
-Proje Başlatma:
-ProxyGen.bat dosyasını çalıştırarak, istediğiniz sayıda ve anonimlikte proxy'leri oluşturabilirsiniz.
+Usage 💡
 
-Proxy'leri Paylaşma:
-Oluşturduğunuz proxy'leri başkalarıyla paylaşabilirsiniz. Unutmayın, bu proxy'ler tamamen anonim ve güvenlidir! 🔒
+Start the Project:
+By running the ProxyGen.bat file, you can generate the desired number and anonymity level of proxies.
 
-Sistem Gereksinimleri:
+Share Proxies:
+You can share the proxies you have generated with others. Remember, these proxies are completely anonymous and secure! 🔒
 
-Windows işletim sistemi
-İnternet bağlantısı 🌍
-.bat dosyasını çalıştırabilecek bir ortam
-Lisans 📜
-Bu proje, MIT Lisansı altında lisanslanmıştır. Detaylar için LICENSE dosyasına göz atabilirsiniz.
+System Requirements:
 
-Katkı Yapmak 💬
-Katkılarınızı bekliyoruz! Projeye katkı sağlamak için aşağıdaki adımları takip edebilirsiniz:
+Windows operating system
+Internet connection 🌍
+An environment that can run .bat files
+License 📜
+This project is licensed under the MIT License. Please refer to the LICENSE file for more details.
 
-Repo'yu forklayın.
-Yeni bir branş oluşturun (git checkout -b feature-name).
-Değişikliklerinizi yapın ve commit edin (git commit -am 'Add new feature').
-Branşınızı push edin (git push origin feature-name).
-Pull request açın.
-Hadi, bu projeyi daha da iyileştirelim! 🚀
+Contributing 💬
+We welcome your contributions! To contribute to the project, please follow these steps:
 
-İletişim 📫
-Herhangi bir sorunuz veya öneriniz varsa, lütfen GitHub Issues bölümünü kullanarak bizimle iletişime geçin.
+Fork the repo.
+Create a new branch (git checkout -b feature-name).
+Make your changes and commit them (git commit -am 'Add new feature').
+Push your branch (git push origin feature-name).
+Open a pull request.
+Let's make this project even better! 🚀
+
+Contact 📫
+If you have any questions or suggestions, please contact us using the GitHub Issues section.
